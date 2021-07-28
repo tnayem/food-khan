@@ -34,7 +34,7 @@ h4,h6{
 .mybtn{
     text-decoration: none;
     padding:18px 40px;
-    background-image: linear-gradient(lightsalmon, tomato);
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
     border-radius: 30px;
     color:#ffffff;
     font-weight: bold;
@@ -51,7 +51,7 @@ h4,h6{
 }
 /**=======Header Area End===============**/
 /**=======About Area Start==============**/
-/**=======About Area Start==============**/
+
 .about-area{
     display:flex;
     background-image: url(images/shapes/7.png);
@@ -117,6 +117,9 @@ h4,h6{
 }
 #rakibul{
     padding-top:70px;
+}
+.red-color{
+    color:red;
 }
 /**=======client-review area End=========**/
 /**=======Footer-Area-Start==============**/
